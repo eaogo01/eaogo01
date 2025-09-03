@@ -1,4 +1,4 @@
-# Hi 👋, I'm Debbie Johnson
+# Hi 👋, Eamon O'Gorman
 ## About Me
 
 - 🏦 I'm currently working for a state college in Nebraska teaching computer programming
